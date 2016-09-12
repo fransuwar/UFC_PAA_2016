@@ -1,6 +1,6 @@
 /*
 Projeto e Analise de Algoritmos
-Exercicio de Grafos, Busca em Profundidade 
+Exercicio de Grafos, Busca em Largura
 MONITORIA - 05/08/2016
 PSEUDOCÓDIGO:
 BFS(G,s):
